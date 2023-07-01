@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 mango
 apple
 grapes
+=======
+Asur
+peaky  blinder
+Mismatched
+>>>>>>> movies
